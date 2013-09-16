@@ -1,0 +1,5 @@
+SECRET_KEY = '\x14\xe1\xca\x1f\x19\x96/\xd1\x8c\x9e\x8dO\xa2\xa9}\xfe\t\xca\xe4\xc5K\xa9\x805'
+MONGODB_SETTINGS = {
+  'DB'    : 'mssedb',
+  'host'  : '192.168.241.181'
+}
